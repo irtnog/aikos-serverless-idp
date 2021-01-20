@@ -1,0 +1,5 @@
+name: aikos-serverless-idp
+version: 1.0.0
+release: 1
+summary: A serverless SAML 2.0 IdP/OIDC 1.0 OP using WebAuthn
+description: Aikos is a serverless Security Assertion Markup Language (SAML) 2.0 Identity Provider (IdP) and OpenID Connect (OIDC) 1.0 OpenID Provider (OP) that uses Web Authentication (WebAuthn) Level 1 to provide a scalable, secure, inexpensive, easy to run, easy to use, widely interoperable, and cloud-agnostic person identification, authentication, authorization, and auditing system for the information services and computational resources used, developed, or shared by organizations in multilateral federations.
